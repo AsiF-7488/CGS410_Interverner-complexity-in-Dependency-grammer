@@ -1,0 +1,2 @@
+language,language_label,prompt
+tamil,Tamil,"Generate 100 grammatical, natural sentences in Tamil. Keep the sentences diverse in syntactic structure, between 8 and 20 tokens long, and return one sentence per line without numbering."

@@ -1,0 +1,2 @@
+language,avg_dependency_length,avg_complexity,avg_arity,avg_subtree_size,avg_depth,percent_left_dependencies,percent_right_dependencies,most_common_pos,entropy_pos_distribution,avg_efficiency_ratio
+catalan,3.0540447504302928,4.7913773669972946,0.5836339044183949,2.687669071235347,5.307709648331831,0.23993115318416522,0.7600688468158348,DET,3.047309613350449,2.187787990557478

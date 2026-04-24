@@ -1,0 +1,2 @@
+language,avg_dependency_length,avg_complexity,avg_arity,avg_subtree_size,avg_depth,percent_left_dependencies,percent_right_dependencies,most_common_pos,entropy_pos_distribution,avg_efficiency_ratio
+indonesian,3.4319218241042346,4.448073272589218,0.5677676537585421,2.5833333333333335,4.540432801822323,0.2853420195439739,0.714657980456026,PROPN,3.174992447988841,3.067943939600453

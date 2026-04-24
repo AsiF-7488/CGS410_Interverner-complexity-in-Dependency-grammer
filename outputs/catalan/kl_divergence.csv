@@ -1,0 +1,9 @@
+language,metric,comparison,kl_divergence
+catalan,arity,real_vs_fully_random,0.07043082016812592
+catalan,intervener_upos,real_vs_fully_random,0.06320972931362867
+catalan,arity,real_vs_grammar_constrained,0.007696357608492644
+catalan,intervener_upos,real_vs_grammar_constrained,0.006833020546362367
+catalan,arity,real_vs_projective_random,0.027104190385110503
+catalan,intervener_upos,real_vs_projective_random,0.02995776534761726
+catalan,arity,real_vs_simplified,0.002426404235846208
+catalan,intervener_upos,real_vs_simplified,0.005479682466220933

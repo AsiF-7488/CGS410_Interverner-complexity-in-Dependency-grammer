@@ -1,0 +1,9 @@
+language,metric,comparison,kl_divergence
+galician,arity,real_vs_fully_random,0.05876666537102481
+galician,intervener_upos,real_vs_fully_random,0.050457643557193746
+galician,arity,real_vs_grammar_constrained,0.00996905298994047
+galician,intervener_upos,real_vs_grammar_constrained,0.011262329935462409
+galician,arity,real_vs_projective_random,0.023797234741344694
+galician,intervener_upos,real_vs_projective_random,0.02536469552453315
+galician,arity,real_vs_simplified,0.002153828623946623
+galician,intervener_upos,real_vs_simplified,0.007531330706754349

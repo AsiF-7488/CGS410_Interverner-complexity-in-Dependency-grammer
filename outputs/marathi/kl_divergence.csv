@@ -1,0 +1,9 @@
+language,metric,comparison,kl_divergence
+marathi,arity,real_vs_fully_random,0.08390359232709063
+marathi,intervener_upos,real_vs_fully_random,0.046460783417445736
+marathi,arity,real_vs_grammar_constrained,0.0030908082122276417
+marathi,intervener_upos,real_vs_grammar_constrained,0.016009525549799147
+marathi,arity,real_vs_projective_random,0.00886547152451617
+marathi,intervener_upos,real_vs_projective_random,0.021984786373140035
+marathi,arity,real_vs_simplified,0.04844436537508705
+marathi,intervener_upos,real_vs_simplified,0.037954431632764615

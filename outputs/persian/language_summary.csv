@@ -1,0 +1,2 @@
+language,avg_dependency_length,avg_complexity,avg_arity,avg_subtree_size,avg_depth,percent_left_dependencies,percent_right_dependencies,most_common_pos,entropy_pos_distribution,avg_efficiency_ratio
+persian,5.6043777867855695,5.257348473889772,0.6915955446260669,3.153768262693476,5.383552726746709,0.550871503850831,0.44912849614916905,NOUN,2.4879378872984184,2.7133475010024815

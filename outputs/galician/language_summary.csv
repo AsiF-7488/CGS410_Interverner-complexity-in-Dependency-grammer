@@ -1,0 +1,2 @@
+language,avg_dependency_length,avg_complexity,avg_arity,avg_subtree_size,avg_depth,percent_left_dependencies,percent_right_dependencies,most_common_pos,entropy_pos_distribution,avg_efficiency_ratio
+galician,3.2028941814892975,5.177960278614458,0.5990210843373494,3.1644390060240966,5.505365210843373,0.1992764546276756,0.8007235453723244,DET,2.942462082439605,2.0223558132577226

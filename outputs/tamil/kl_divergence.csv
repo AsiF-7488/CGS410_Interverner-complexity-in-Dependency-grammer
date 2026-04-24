@@ -1,0 +1,9 @@
+language,metric,comparison,kl_divergence
+tamil,arity,real_vs_fully_random,0.042684334072420727
+tamil,intervener_upos,real_vs_fully_random,0.0456410001691402
+tamil,arity,real_vs_grammar_constrained,0.010721182560174621
+tamil,intervener_upos,real_vs_grammar_constrained,0.0028591403039851596
+tamil,arity,real_vs_projective_random,0.009461206780860392
+tamil,intervener_upos,real_vs_projective_random,0.005813029615174197
+tamil,arity,real_vs_simplified,0.025885172661118026
+tamil,intervener_upos,real_vs_simplified,0.023896706486245298

@@ -1,0 +1,9 @@
+language,metric,comparison,kl_divergence
+indonesian,arity,real_vs_fully_random,0.07946385925404996
+indonesian,intervener_upos,real_vs_fully_random,0.0702663832155956
+indonesian,arity,real_vs_grammar_constrained,0.014880563883889286
+indonesian,intervener_upos,real_vs_grammar_constrained,0.015439112965257608
+indonesian,arity,real_vs_projective_random,0.026496330306662933
+indonesian,intervener_upos,real_vs_projective_random,0.029581506455078024
+indonesian,arity,real_vs_simplified,0.002016180044134891
+indonesian,intervener_upos,real_vs_simplified,0.0036535553658036957

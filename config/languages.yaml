@@ -1,0 +1,43 @@
+languages:
+  marathi:
+    name: "Marathi"
+    typology: "SOV"
+    family: "Indo-Aryan"
+    treebank: "SUD_Marathi-UFAL"
+    contributor: "Asif"
+  catalan:
+    name: "Catalan"
+    typology: "SVO"
+    family: "Romance"
+    treebank: "SUD_Catalan-AnCora"
+    contributor: "Asif"
+  galician:
+    name: "Galician"
+    typology: "SVO"
+    family: "Romance"
+    treebank: "SUD_Galician-CTG"
+    contributor: "Asif"
+  persian:
+    name: "Persian"
+    typology: "SOV"
+    family: "Iranian"
+    treebank: "SUD_Persian-Seraji"
+    contributor: "Asif"
+  tamil:
+    name: "Tamil"
+    typology: "SOV"
+    family: "Dravidian"
+    treebank: "SUD_Tamil-TTB"
+    contributor: "Asif"
+  telugu:
+    name: "Telugu"
+    typology: "SOV"
+    family: "Dravidian"
+    treebank: "SUD_Telugu-MTG"
+    contributor: "Asif"
+  indonesian:
+    name: "Indonesian"
+    typology: "SVO"
+    family: "Austronesian"
+    treebank: "SUD_Indonesian-GSD"
+    contributor: "Asif"

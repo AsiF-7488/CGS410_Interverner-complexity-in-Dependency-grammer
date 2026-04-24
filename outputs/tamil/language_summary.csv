@@ -1,0 +1,2 @@
+language,avg_dependency_length,avg_complexity,avg_arity,avg_subtree_size,avg_depth,percent_left_dependencies,percent_right_dependencies,most_common_pos,entropy_pos_distribution,avg_efficiency_ratio
+tamil,3.4877862595419846,4.5103086014445175,0.6075727730356753,2.6134821623987743,4.492449113591595,0.9198473282442748,0.08015267175572519,NOUN,2.867807005552813,2.25539405285906

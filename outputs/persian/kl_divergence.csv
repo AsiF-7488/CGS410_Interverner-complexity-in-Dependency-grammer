@@ -1,0 +1,9 @@
+language,metric,comparison,kl_divergence
+persian,arity,real_vs_fully_random,0.03847670888173095
+persian,intervener_upos,real_vs_fully_random,0.06856367367857348
+persian,arity,real_vs_grammar_constrained,0.0013981915393536841
+persian,intervener_upos,real_vs_grammar_constrained,0.005399336963902646
+persian,arity,real_vs_projective_random,0.006514152169320203
+persian,intervener_upos,real_vs_projective_random,0.03561509099609604
+persian,arity,real_vs_simplified,0.0040915984344655045
+persian,intervener_upos,real_vs_simplified,0.005437774396603542

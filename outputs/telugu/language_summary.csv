@@ -1,0 +1,2 @@
+language,avg_dependency_length,avg_complexity,avg_arity,avg_subtree_size,avg_depth,percent_left_dependencies,percent_right_dependencies,most_common_pos,entropy_pos_distribution,avg_efficiency_ratio
+telugu,1.7073170731707317,2.1797959183673465,0.24897959183673468,1.316326530612245,1.4857142857142858,0.9616724738675958,0.03832752613240418,NOUN,2.5442470065156195,1.1159027017072498

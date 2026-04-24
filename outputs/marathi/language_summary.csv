@@ -1,0 +1,2 @@
+language,avg_dependency_length,avg_complexity,avg_arity,avg_subtree_size,avg_depth,percent_left_dependencies,percent_right_dependencies,most_common_pos,entropy_pos_distribution,avg_efficiency_ratio
+marathi,2.273062730627306,2.863068181818182,0.3961038961038961,1.672077922077922,2.330357142857143,0.7859778597785978,0.2140221402214022,NOUN,2.973115525391434,1.321947870163133

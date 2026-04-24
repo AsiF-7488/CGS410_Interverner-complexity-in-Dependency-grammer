@@ -1,0 +1,12 @@
+matplotlib
+networkx
+numpy
+pandas
+scipy
+seaborn
+scikit-learn
+nbformat
+PyYAML
+statsmodels
+Pillow
+reportlab
