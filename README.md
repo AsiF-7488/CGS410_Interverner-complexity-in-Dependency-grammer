@@ -85,9 +85,3 @@ CGS410--intervener-complexity-asif/
 - Adverbs are not dominant, so the original hypothesis is only partially supported.
 - Real corpora are much simpler than random baselines.
 - Dependency distance is the strongest predictor in the ML stage.
-
-## Upload Note
-
-If you upload this to GitHub, add your real repository URL into the final report wherever the placeholder appears:
-
-`Public code repository: <add-your-github-link-here>`
